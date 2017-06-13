@@ -1,6 +1,7 @@
 # movieDB
 
-[Download Aplikasi Via GITHUB](https://github.com/haikalatth/movieDB/blob/master/app-release.apk)
+[Download Aplikasi](https://drive.google.com/open?id=0B_0b9b5w4kzUZXdvU19mN3U1ZE0)
+
 
 ![Screenshot 1](https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-132959.png)
 ![Screenshot 2](https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133003.png)
