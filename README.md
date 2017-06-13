@@ -7,6 +7,10 @@ About | Home
 ------------ | -------------
 <img src="https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-132959.png" width="300" height="515" />|<img src="https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133003.png" width="300" height="515" />
 
+Sedang Tayang | Segera Tayang
+------------ | -------------
+<img src="https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133006.png" width="300" height="515" />|<img src="https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133009.png" width="300" height="515" />
+
 ![Screenshot 1](https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-132959.png)
 ![Screenshot 2](https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133003.png)
 ![Screenshot 3](https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133006.png)
