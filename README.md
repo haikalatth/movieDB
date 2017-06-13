@@ -3,7 +3,7 @@
 [Download Aplikasi](https://drive.google.com/open?id=0B_0b9b5w4kzUZXdvU19mN3U1ZE0)
 
 ### Screenshot Aplikasi
-Home | Menu Drawer
+About | Home
 ------------ | -------------
 <img src="https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-132959.png" width="300" height="515" />|<img src="https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133003.png" width="300" height="515" />
 
