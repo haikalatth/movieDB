@@ -1,8 +1,9 @@
 # movieDB
 
-![Screenshot 1](https://github.com/haikalatth/Intent1/blob/master/Screenshot_2016-11-09-17-18-45-76.png)
-![Screenshot 2](https://github.com/haikalatth/Intent1/blob/master/Screenshot_2016-11-09-17-18-52-78.png)
-
+![Screenshot 1](https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-132959.png)
+![Screenshot 2](https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133003.png)
+![Screenshot 3](https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133006.png)
+![Screenshot 4](https://github.com/haikalatth/movieDB/blob/master/Screenshot_20170613-133009.png)
 Nama    : Muhammad Haikal Atthoriq 
 
 Kelas   : XIRPL3 
