@@ -17,7 +17,7 @@ https://www.themoviedb.org/documentation/api
 ### Navigasi Yang Digunakan
 Navigation Drawer
 
-### Library Local
+### Library
 SQLite Dasar
 
 ### Deskripsi
